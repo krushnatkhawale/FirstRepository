@@ -1,3 +1,7 @@
 Master branch contents
 
 Hello This is another test file in my GitHub.
+
+Feature 1 changes
+
+
